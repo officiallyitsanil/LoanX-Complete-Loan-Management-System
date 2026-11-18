@@ -1,0 +1,14 @@
+Website: https://loanx.siteshieldsecurity.com/
+(Fully Customizable from Admin panel)
+
+Admin: https://loanx.siteshieldsecurity.com/admin/auth/login
+
+email: admin@siteshieldsecurity.com
+password: admin123
+
+App: https://drive.google.com/file/d/1vvU27jevyefjMUaL6oDj__FWou_PHBLo/view?usp=sharing
+
+mobile:9876543210
+otp: 1234
+
+Demo video: https://youtu.be/AHJzQjNDQZ8?si=7tP8RRLAAtoUq9Jv
